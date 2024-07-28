@@ -108,6 +108,7 @@ Open the Nested_Unet_Segmentation.ipynb notebook and run the cells to see the da
 
 ## Model Architecture
 The Nested U-Net architecture extends the traditional U-Net by incorporating nested and dense skip connections to capture multi-scale features more effectively. This architecture enhances the model's capability to segment complex structures.
+![image](https://github.com/user-attachments/assets/d5225a74-63b2-42eb-80cf-2ea65126522f)
 
 ## Key Features of Nested U-Net
 - Nested and Dense Skip Connections: Unlike the traditional U-Net, the Nested U-Net introduces additional skip connections that create nested pathways for feature propagation. These dense connections help in capturing multi-scale features, allowing the model to learn more detailed representations.
